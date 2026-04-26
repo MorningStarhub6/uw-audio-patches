@@ -2,3 +2,4 @@
 3|32065626|sound_patch_v3.dat
 4|105886033|sound_patch_v4.dat
 5|1144760|sound_patch_v5.dat
+6|62348233|sound_patch_v6.dat
